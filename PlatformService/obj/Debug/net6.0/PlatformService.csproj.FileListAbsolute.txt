@@ -1,0 +1,7 @@
+/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/net6.0/PlatformService.csproj.AssemblyReference.cache
+/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/net6.0/PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/net6.0/PlatformService.AssemblyInfoInputs.cache
+/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/net6.0/PlatformService.AssemblyInfo.cs
+/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/net6.0/PlatformService.csproj.CoreCompileInputs.cache
+/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/net6.0/PlatformService.MvcApplicationPartsAssemblyInfo.cs
+/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/net6.0/PlatformService.MvcApplicationPartsAssemblyInfo.cache
