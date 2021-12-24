@@ -1,4 +1,0 @@
-/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/netstandard2.1/PlatformService.csproj.AssemblyReference.cache
-/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/netstandard2.1/PlatformService.AssemblyInfoInputs.cache
-/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/netstandard2.1/PlatformService.AssemblyInfo.cs
-/Users/xianghuiguo/workflow/ag/iceberg-projects/dotnet-microservices/PlatformService/obj/Debug/netstandard2.1/PlatformService.csproj.CoreCompileInputs.cache
